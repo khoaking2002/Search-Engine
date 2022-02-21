@@ -1,0 +1,2 @@
+LƯU Ý: folder train để có thể train được thì để nguyên folder train ở ổ D(để trực tiếp ở ổ D, không ở thư mục con)(D:\new train)
+THƯ VIỆN Ở NGOÀI: dirent.h đã được cài được sẵn, không cần cài đặt gì thêm 
